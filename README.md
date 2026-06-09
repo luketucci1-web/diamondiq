@@ -1,1 +1,1 @@
-# diamondiq
+# index.html
